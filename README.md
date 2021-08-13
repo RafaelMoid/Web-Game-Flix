@@ -1,4 +1,4 @@
-![WBFlix](C:\workspace\WebGameFlix\WBFlix.JPG)
+![WBFlix](C:\workspace\WebGameFlix\WBFlix-layout.JPG)
 
  Almejando a carreira Fullstack, hoje tive o prazer de iniciar meus estudos voltado para a área [Front-End](https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end). Este foi o <b>PRIMEIRO</b> de muitos projetos que eu estarei desenvolvendo ao decorrer da minha jornada. ❤ <br/>
 
@@ -21,13 +21,13 @@ git clone https://github.com/MariliaMSiqueira/Web-Game-Flix.git
 
 
 
-- [ x ] HTML;
-- [ x ] CSS;
-- [ x ] JavaScript;
-- [ x ] JQuery - Owl Carousel. 
+- [x] HTML;
+- [x] CSS;
+- [x] JavaScript;
+- [x] JQuery - Owl Carousel. 
 
-<h2 align="center"> Links úteis
--------------
+<h2 align="center" Links úteis</h2>
+----------------------------
 
 
 
@@ -41,7 +41,7 @@ git clone https://github.com/MariliaMSiqueira/Web-Game-Flix.git
 
 [Lista Completa de Símbolos do HTML5](http://arquivo.devmedia.com.br/artigos/devmedia/html-entities.html)
 
-<h2 align="center">🤩 Experiência pessoal 
+<h2 align="center">🤩 Experiência pessoal</h2> 
 
 
 

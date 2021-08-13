@@ -1,0 +1,128 @@
+:root{
+    --preto:#000000;
+    --vermelho:#E50914;
+}
+
+body{
+    background: var(--preto);
+    font-family: Arial, sans-serif;
+    color:white;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header .container{
+    display: flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content: space-between;
+    margin-right: 10px;
+    
+}
+
+.container .logo {
+    position: relative;
+    width: 340px;
+    height: 50px;
+    top: 10px;
+    left: 10px;
+    cursor: pointer;
+}
+
+
+header .container a{
+    margin-left: 50px;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 10px;
+    color:#b6b1b1;
+}
+
+header .container a:hover{
+    color: white;
+}
+
+.img-principal{
+    position: absolute;    /* Imagem ao fundo*/
+    margin-left: 450px;
+    height: 680px;
+    width: 1470px;
+    /*width: 100%;  ------------------------ALTERAR IMAGEM-------------------------- */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+
+.bf-logo{
+    position: relative;
+    margin-left: 1690px;
+    width: 100%;
+}
+
+.titulo{
+    position: relative;
+    margin-top: 1%;
+    margin-left: 13px;
+    width: 42%;
+}
+
+
+.descricao {
+   position:relative;     /* Legenda sobreposta na imagem */
+   font-size: 13pt;
+    margin: 10px 45px 80px 45px;
+    width: 40%;
+    text-align: justify;
+}
+
+.logo-bf{
+    position: relative;
+    margin-left: 840px;
+    margin-top: -80px;
+}
+
+.botao{
+    position: relative; /* Sobrepor a imagem */
+    font-size: 11pt;
+    border-radius: 7pt;
+    padding: 11px 30px;
+    color: white;
+    border: 1px solid white;
+    background-color: rgba(0,0,0,0.60);
+    margin-left: 140px;
+    margin-top: -500px;
+    margin-right: -90px;
+    cursor: pointer;
+    transition: 1s ease all;
+    
+}
+.botao:hover{
+    border-color: var(--vermelho);
+    background-color: white;
+    color: black;
+    border: 2px solid --vermelho;
+}
+
+
+.box-game{
+    height: 100%;
+    width: 100%;
+    display: block;
+    cursor: pointer;
+    overflow: hidden;
+    -webkit-transition: -webkit-transform .5 ease;
+    transition: transform .5 ease;
+}
+
+.box-game:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+

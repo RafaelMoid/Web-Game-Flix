@@ -1,5 +1,4 @@
-![WBFlix-layout](C:\workspace\WebGameFlix\WBFlix-layout.JPG)
-
+<img src=WBFlix-layout.jpg>
  Almejando a carreira Fullstack, hoje tive o prazer de iniciar meus estudos voltado para a área [Front-End](https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end). Este foi o <b>PRIMEIRO</b> de muitos projetos que eu estarei desenvolvendo ao decorrer da minha jornada. ❤ <br/>
 
 &nbsp; A partir dos cursos disponibilizados <b>Digital Innovation One</b>, fui capaz de elaborar e projetar, com sucesso, o clone da Netflix . O exercício proposto pelo professor Felipe Aguiar sugeria que nós recriássemos o layout da página de streaming. Alinhando ao assunto que eu me sinto extremamente confortável, desta forma, criei o <b>WebGameFlix</b>. Um site que seria possível assistir aos trailers, acessar a página dos desenvolvedores, conferir os lançamentos e ficar por dentro de toda cultura gamer!🎮<br/>

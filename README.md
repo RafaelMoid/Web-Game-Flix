@@ -10,12 +10,14 @@
 </h2>
 
 --------------------------
+<h3>#1 - Acesse: </h3>
+https://web-game-flix.vercel.app/
 
-<h3>#1 - Clone o repositório:</h3>
+<h3>#2 - Clone o repositório:</h3>
 
 git clone https://github.com/MariliaMSiqueira/Web-Game-Flix.git
 
-<h3>#2 - Abra o arquivo "index.html" em seu navegador.</h3>
+<h3>#3 - Abra o arquivo "index.html" em seu navegador.</h3>
 
 <h2 align="center"> 📋 Tecnologias utilizadas</h2>
 
